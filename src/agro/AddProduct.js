@@ -21,7 +21,7 @@ const AgroRegister = () => {
                     <option value="мясо" key="мясо">Мясо</option>
                 </select>
                </div>
-                <div>
+                <div className={Style.btn} >
                 <button>
                     ДАЛЕЕ
                 </button>
